@@ -3,6 +3,7 @@
 <div id="page-content">
   <div class="container">
   	<div class="columns six offset-by-three">
+  	
   		<p>Relative Clocks is artwork by Chomko &amp; Rosier
 			commissioned by the UK Space Agency.</p>
 
@@ -24,4 +25,5 @@
   	</div>
   </div>
 </div>
+
 <?php include 'includes/footer.php' ?>
